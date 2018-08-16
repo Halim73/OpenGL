@@ -1,0 +1,18 @@
+﻿  cone.cpp
+  disk.cpp
+  grass.cpp
+  ground.cpp
+  houseBox.cpp
+  pyramid.cpp
+  Scenery.cpp
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilEnable@4
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilLoadImage@4
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilDeleteImages@8
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilConvertImage@8
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilOriginFunc@4
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilInit@0
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilBindImage@4
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilGetData@0
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilGetInteger@4
+Scenery.obj : error LNK2001: unresolved external symbol __imp__ilGenImages@8
+C:\Users\halim\Desktop\School\Graphics\CSCD396Project\finalProject\Release\finalProject.exe : fatal error LNK1120: 10 unresolved externals
